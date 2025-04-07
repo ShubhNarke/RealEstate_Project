@@ -73,11 +73,10 @@ const Contact = () => {
           <h1
             data-aos="zoom-in"
             data-aos-delay="400"
-            className="text-black tex-[40px] font-semibold leading-10 dark:text-white"
-          >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla
-            nihil .
+            className="text-black text-[40px] font-semibold leading-10 dark:text-white"
+          >Lorem, ipsum dolor sit amet consectetur adipisicing elitOptio  
           </h1>
+          <p data-aos="zoom-in" data-aos-delay="600" className="text-xl text-gray-600 text-justify dark:text-white">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo illum architecto sint omnis porro, natus nam vitae veniam obcaecati ullam rerum nulla qui voluptate alias, molestias tempore deleniti. Autem, nam.</p>
           <button className="bg-red-600 text-md px-8 py-3 text-white font-semibold rounded-xl hover:bg-black dark:hover:bg-red-700 cursor-pointer ">
             SEND EMAIL
           </button>
